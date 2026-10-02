@@ -24,7 +24,7 @@ The complete workflow includes:
 
 ## Dataset
 
-The project uses the **ColoredFlowersBD** dataset, which contains flower images from Bangladesh.
+The project uses the **ColoredFlowersBD** dataset(https://www.kaggle.com/datasets/jocelyndumlao/colored-flowers-in-bangladesh), which contains flower images from Bangladesh.
 
 The dataset contains 13 flower classes:
 
